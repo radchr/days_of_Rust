@@ -1,0 +1,13 @@
+c:\edu\rust\days_of_Rust\day_1\target\debug\deps\widestring-2ad1216556bf1b1c.rmeta: C:\Users\taxco\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.5.1\src\lib.rs C:\Users\taxco\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.5.1\src\error.rs C:\Users\taxco\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.5.1\src\iter.rs C:\Users\taxco\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.5.1\src\platform\mod.rs C:\Users\taxco\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.5.1\src\platform\windows.rs C:\Users\taxco\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.5.1\src\ucstr.rs C:\Users\taxco\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.5.1\src\ucstring.rs C:\Users\taxco\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.5.1\src\ustr.rs C:\Users\taxco\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.5.1\src\ustring.rs
+
+c:\edu\rust\days_of_Rust\day_1\target\debug\deps\widestring-2ad1216556bf1b1c.d: C:\Users\taxco\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.5.1\src\lib.rs C:\Users\taxco\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.5.1\src\error.rs C:\Users\taxco\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.5.1\src\iter.rs C:\Users\taxco\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.5.1\src\platform\mod.rs C:\Users\taxco\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.5.1\src\platform\windows.rs C:\Users\taxco\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.5.1\src\ucstr.rs C:\Users\taxco\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.5.1\src\ucstring.rs C:\Users\taxco\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.5.1\src\ustr.rs C:\Users\taxco\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.5.1\src\ustring.rs
+
+C:\Users\taxco\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.5.1\src\lib.rs:
+C:\Users\taxco\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.5.1\src\error.rs:
+C:\Users\taxco\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.5.1\src\iter.rs:
+C:\Users\taxco\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.5.1\src\platform\mod.rs:
+C:\Users\taxco\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.5.1\src\platform\windows.rs:
+C:\Users\taxco\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.5.1\src\ucstr.rs:
+C:\Users\taxco\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.5.1\src\ucstring.rs:
+C:\Users\taxco\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.5.1\src\ustr.rs:
+C:\Users\taxco\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.5.1\src\ustring.rs:
